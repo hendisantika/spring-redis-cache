@@ -26,7 +26,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	implementation 'org.slf4j:slf4j-api:2.0.17'
-	implementation 'ch.qos.logback:logback-classic:1.5.20'
+	implementation 'ch.qos.logback:logback-classic:1.5.21'
 	implementation 'redis.clients:jedis:7.0.0'
 	implementation 'org.springframework.data:spring-data-redis'
     implementation 'jakarta.annotation:jakarta.annotation-api:3.0.0'
