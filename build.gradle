@@ -27,7 +27,7 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	implementation 'org.slf4j:slf4j-api:2.0.17'
 	implementation 'ch.qos.logback:logback-classic:1.5.24'
-	implementation 'redis.clients:jedis:7.2.0'
+	implementation 'redis.clients:jedis:7.2.1'
 	implementation 'org.springframework.data:spring-data-redis'
     implementation 'jakarta.annotation:jakarta.annotation-api:3.0.0'
     runtimeOnly 'com.h2database:h2'
